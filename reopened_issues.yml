@@ -1,0 +1,7 @@
+# Регрессионное тестирование закрытых багов
+# Проверен issue #2203: "Bug: In the 'copyright' block the year does not match the current one"
+# Результат: БАГ ИСПРАВЛЕН (в футере указан 2026 год)
+# Дата проверки: 4 февраля 2026
+# Версия Codebattle: babf5ed
+
+issues: []
